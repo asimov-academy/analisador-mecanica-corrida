@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "analisador-mecanica-corrida"
+version = "0.1.0"
+description = ""
+authors = ["Samuel Sublate <samuelsublate.dev@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mediapipe = "^0.10.18"
+opencv-python = "^4.10.0.84"
+pyqt5 = "^5.15.11"
+pyqtgraph = "^0.13.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
