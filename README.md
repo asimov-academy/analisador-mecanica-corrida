@@ -17,7 +17,7 @@ Aplicação desktop em PyQt5 que utiliza OpenCV e Mediapipe para analisar biomec
 
 1. **Clonar o repositório**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/asimov-academy/analisador-mecanica-corrida.git
    cd analisador-mecanica-corrida
    ```
 
